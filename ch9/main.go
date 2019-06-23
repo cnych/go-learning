@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	sum := 0
@@ -52,5 +54,4 @@ LOOP:
 		}
 		fmt.Printf("a=%d\n", a)
 	}
-
 }
