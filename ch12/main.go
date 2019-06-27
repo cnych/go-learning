@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func changeEle(arr *[3]int) {
 	arr[0] = 1000
