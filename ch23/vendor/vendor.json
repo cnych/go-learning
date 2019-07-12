@@ -1,0 +1,32 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "VCGH2fA2Y+bz918EN2YHJNyuoPM=",
+			"path": "github.com/cnych/stardust/encodingx/base64x",
+			"revision": "3205cb7bb5c1f4736387d35642926fc98f5e5b7f",
+			"revisionTime": "2019-07-12T08:16:41Z"
+		},
+		{
+			"checksumSHA1": "QPz0Gtzl17QSIBIRZwRtXQeZt+o=",
+			"path": "github.com/cnych/stardust/encodingx/hexx",
+			"revision": "3205cb7bb5c1f4736387d35642926fc98f5e5b7f",
+			"revisionTime": "2019-07-12T08:16:41Z"
+		},
+		{
+			"checksumSHA1": "uyZU+pZZDZ2C4iaZjeC0SHoK6yQ=",
+			"path": "github.com/cnych/stardust/uuidx",
+			"revision": "3205cb7bb5c1f4736387d35642926fc98f5e5b7f",
+			"revisionTime": "2019-07-12T08:16:41Z"
+		},
+		{
+			"checksumSHA1": "+nVM+CEZGAopOrYlLifgWP+X01E=",
+			"origin": "github.com/cnych/stardust/vendor/github.com/satori/go.uuid",
+			"path": "github.com/satori/go.uuid",
+			"revision": "3205cb7bb5c1f4736387d35642926fc98f5e5b7f",
+			"revisionTime": "2019-07-12T08:16:41Z"
+		}
+	],
+	"rootPath": "ch23"
+}
