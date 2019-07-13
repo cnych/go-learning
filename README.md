@@ -28,5 +28,6 @@ Golang 实战课程示例代码，课程地址：[https://youdianzhishi.com/cour
 * [ch21](./ch21-error-and-defer): 错误处理与defer语句
 * [ch22](./ch22-panic-recover): panic和recover
 * [ch23](./ch23-govendor): 包管理工具govendor
+* [ch24](./ch24-gomodules):Go Modules
 
 未完待续......
