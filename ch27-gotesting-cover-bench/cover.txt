@@ -1,0 +1,4 @@
+mode: set
+ch27-gotesting-cover-bench/calculate/calculate.go:3.23,5.2 1 1
+ch27-gotesting-cover-bench/calculate/calculate.go:7.22,9.2 1 0
+ch27-gotesting-cover-bench/calculate/calculate.go:11.24,13.2 1 1

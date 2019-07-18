@@ -9,7 +9,7 @@ import (
 func main() {
 	fmt.Println(stringsx.Hello("cnych"))
 
-	if greet, err := stringsV2.Hello("cnych", "fr"); err != nil {
+	if greet, err := stringsV2.Hello("cnych", "zh"); err != nil {
 		fmt.Println(err)
 	} else {
 		fmt.Println(greet)
