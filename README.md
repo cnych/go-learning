@@ -31,5 +31,9 @@ Golang 实战课程示例代码，课程地址：[https://youdianzhishi.com/cour
 * [ch24](./ch24-gomodules): Go Modules
 * [ch25](./ch25-gomodules-version): Go Modules 版本管理(发布)
 * [ch26](./ch26-gotesting): 单元测试
+* [ch27](./ch27-gotesting-cover-bench): 测试覆盖率与基准测试
+* [ch28](./ch28-godoc-example): 文档生成和示例代码
+* [ch29](./ch29-goroutine): 协程
+* [ch30](./ch30-mutex-waitgroup): 共享内存并发机制
 
 未完待续......
