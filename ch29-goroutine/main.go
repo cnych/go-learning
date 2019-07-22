@@ -10,7 +10,7 @@ func printGroutine(i int) {
 }
 
 func main() {
-	var a [10]in
+	var a [10]int
 	for i := 0; i < 10; i++ {
 		go func(i int) {
 			fmt.Printf("I am from groutine %d\n", i)
@@ -27,3 +27,4 @@ func main() {
 	fmt.Println(a)
 
 }
+
