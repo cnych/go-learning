@@ -41,10 +41,10 @@ func TestAdd(t *testing.T) {
 }
 
 func BenchmarkAdd(b *testing.B) {
-	input := struct {a, b,c int}{
+	input := struct{ a, b, c int }{
 		3001, 4002, 7003,
 	}
-	for i:=0;i<b.N;i++ {
+	for i := 0; i < b.N; i++ {
 		if result := Add(input.a, input.b); result != input.c {
 			b.Errorf("Add(%d,%d) expected result=%d, actual result=%d\n",
 				input.a, input.b, input.c, result)
