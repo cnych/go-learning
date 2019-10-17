@@ -35,5 +35,11 @@ Golang 实战课程示例代码，课程地址：[https://youdianzhishi.com/cour
 * [ch28](./ch28-godoc-example): 文档生成和示例代码
 * [ch29](./ch29-goroutine): 协程
 * [ch30](./ch30-mutex-waitgroup): 共享内存并发机制
+* [ch31](./ch31-go-channel): Channel
+* [ch32](./ch32-buffered-select): Buffered Channel 与 Select
+* [ch33](./ch33-http): HTTP 标准库
+* [ch34](./ch34-other-lib): 其他常用标准库
+* [ch35~46](https://github.com/cnych/pogo): 实战项目1
+* [ch47](./ch47-reflect): 反射
 
 未完待续......
